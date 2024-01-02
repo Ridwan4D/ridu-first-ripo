@@ -30,6 +30,6 @@ ul{
 .img{
     height: 400px;
     width: 400px;
-    background-image: url("/1.avif");
+    background-image: url("/1.jpg");
     background-size: cover;
 }
